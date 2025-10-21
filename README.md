@@ -1,6 +1,6 @@
 
-<img width="1067" height="743" alt="Screenshot 2025-10-21 180843" src="https://github.com/user-attachments/assets/b8821062-96e3-4a67-8bf5-02cdc4907a69" />
-<img width="923" height="697" alt="Screenshot 2025-10-21 181108" src="https://github.com/user-attachments/assets/13274679-711b-4768-9a0d-9279866b76c1" />
+<img width="123" height="343" alt="Screenshot 2025-10-21 180843" src="https://github.com/user-attachments/assets/b8821062-96e3-4a67-8bf5-02cdc4907a69" />
+<img width="423" height="397" alt="Screenshot 2025-10-21 181108" src="https://github.com/user-attachments/assets/13274679-711b-4768-9a0d-9279866b76c1" />
 
 💓Heart Stroke Prediction💓
 
